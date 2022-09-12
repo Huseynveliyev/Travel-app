@@ -22,3 +22,6 @@ samples, guidance on mobile development, and a full API reference.
 
 ![alt text](![Screenshot_2022-09-12-23-20-50-938_com example traveler_app](https://user-images.githubusercontent.com/91878561/189744292-63dfcfd8-ef89-4122-98bd-a103697d6631.jpg)
 ) 
+
+![alt text](![Screenshot_2022-09-12-23-21-02-097_com example traveler_app](https://user-images.githubusercontent.com/91878561/189744678-2f488f3a-ac0f-4868-8de4-0959e76f6579.jpg)
+) 
